@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: ibkr_xmlFileArchiver
+
+flex:
+  query:
+    bucket: portfolio_tracker_data
+    current: current/transactions.xml
+    archive: archive/transactions_
+
+logging:
+  level:
+    root: INFO

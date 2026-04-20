@@ -1,0 +1,68 @@
+=============================== 
+START File Archiver 06/01/2026 23:30:09.70 
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.0)
+
+2026-01-06T23:30:10.932+01:00  INFO 10336 --- [ibkr_xmlFileArchiver] [           main] c.e.i.IbkrXmlFileArchiverApplication     : Starting IbkrXmlFileArchiverApplication v0.0.1-SNAPSHOT using Java 17.0.17 with PID 10336 (E:\WebApp_Projects\Portfolio_Tracker_Project\java\ibkr_xmlFileArchiver\target\ibkr_xmlFileArchiver-0.0.1-SNAPSHOT.jar started by Kevin Meng in E:\WebApp_Projects\Portfolio_Tracker_Project\java\ibkr_xmlFileArchiver)
+2026-01-06T23:30:10.948+01:00  INFO 10336 --- [ibkr_xmlFileArchiver] [           main] c.e.i.IbkrXmlFileArchiverApplication     : No active profile set, falling back to 1 default profile: "default"
+2026-01-06T23:30:11.416+01:00  INFO 10336 --- [ibkr_xmlFileArchiver] [           main] c.e.i.IbkrXmlFileArchiverApplication     : Started IbkrXmlFileArchiverApplication in 1.103 seconds (process running for 1.633)
+SUCCESS: Archiver completed successfully 
+END Archiver SUCCESS 06/01/2026 23:30:11.49 
+=============================== 
+START File Archiver 08/01/2026 12:50:45.71 
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.0)
+
+2026-01-08T12:50:47.094+01:00  INFO 21932 --- [ibkr_xmlFileArchiver] [           main] c.e.i.IbkrXmlFileArchiverApplication     : Starting IbkrXmlFileArchiverApplication v0.0.1-SNAPSHOT using Java 17.0.17 with PID 21932 (E:\WebApp_Projects\Portfolio_Tracker_Project\java\ibkr_xmlFileArchiver\target\ibkr_xmlFileArchiver-0.0.1-SNAPSHOT.jar started by Kevin Meng in E:\WebApp_Projects\Portfolio_Tracker_Project\java\ibkr_xmlFileArchiver)
+2026-01-08T12:50:47.110+01:00  INFO 21932 --- [ibkr_xmlFileArchiver] [           main] c.e.i.IbkrXmlFileArchiverApplication     : No active profile set, falling back to 1 default profile: "default"
+2026-01-08T12:50:47.698+01:00  INFO 21932 --- [ibkr_xmlFileArchiver] [           main] c.e.i.IbkrXmlFileArchiverApplication     : Started IbkrXmlFileArchiverApplication in 1.297 seconds (process running for 1.94)
+SUCCESS: Archiver completed successfully 
+END Archiver SUCCESS 08/01/2026 12:50:47.78 
+=============================== 
+START File Archiver 07/02/2026 14:45:58.67 
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.0)
+
+2026-02-07T14:46:00.001+01:00  INFO 22804 --- [ibkr_xmlFileArchiver] [           main] c.e.i.IbkrXmlFileArchiverApplication     : Starting IbkrXmlFileArchiverApplication v0.0.1-SNAPSHOT using Java 17.0.17 with PID 22804 (E:\WebApp_Projects\Portfolio_Tracker_Project\java\ibkr_xmlFileArchiver\target\ibkr_xmlFileArchiver-0.0.1-SNAPSHOT.jar started by Kevin Meng in E:\WebApp_Projects\Portfolio_Tracker_Project\java\ibkr_xmlFileArchiver)
+2026-02-07T14:46:00.001+01:00  INFO 22804 --- [ibkr_xmlFileArchiver] [           main] c.e.i.IbkrXmlFileArchiverApplication     : No active profile set, falling back to 1 default profile: "default"
+2026-02-07T14:46:00.611+01:00  INFO 22804 --- [ibkr_xmlFileArchiver] [           main] c.e.i.IbkrXmlFileArchiverApplication     : Started IbkrXmlFileArchiverApplication in 1.187 seconds (process running for 1.866)
+SUCCESS: Archiver completed successfully 
+END Archiver SUCCESS 07/02/2026 14:46:00.67 
+=============================== 
+START File Archiver 10/03/2026 11:50:09.75 
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.0)
+
+2026-03-10T11:50:11.510+01:00  INFO 12524 --- [ibkr_xmlFileArchiver] [           main] c.e.i.IbkrXmlFileArchiverApplication     : Starting IbkrXmlFileArchiverApplication v0.0.1-SNAPSHOT using Java 17.0.17 with PID 12524 (E:\WebApp_Projects\Portfolio_Tracker_Project\java\ibkr_xmlFileArchiver\target\ibkr_xmlFileArchiver-0.0.1-SNAPSHOT.jar started by Kevin Meng in E:\WebApp_Projects\Portfolio_Tracker_Project\java\ibkr_xmlFileArchiver)
+2026-03-10T11:50:11.510+01:00  INFO 12524 --- [ibkr_xmlFileArchiver] [           main] c.e.i.IbkrXmlFileArchiverApplication     : No active profile set, falling back to 1 default profile: "default"
+2026-03-10T11:50:12.230+01:00  INFO 12524 --- [ibkr_xmlFileArchiver] [           main] c.e.i.IbkrXmlFileArchiverApplication     : Started IbkrXmlFileArchiverApplication in 1.552 seconds (process running for 2.425)
+SUCCESS: Archiver completed successfully 
+END Archiver SUCCESS 10/03/2026 11:50:12.30 
