@@ -11,3 +11,6 @@ flex:
 logging:
   level:
     root: INFO
+
+server:
+  port: ${PORT:8080}
