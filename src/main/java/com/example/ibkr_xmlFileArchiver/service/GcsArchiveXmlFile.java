@@ -6,11 +6,13 @@ import com.google.cloud.storage.StorageOptions;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Value;
+import org.springframework.context.annotation.Profile;
 
 import java.io.IOException;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 
+@Profile("prod")
 public class GcsArchiveXmlFile implements ArchiveXmlFile{
 
     @Value("${flex.query.bucket.current}")
