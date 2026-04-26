@@ -17,10 +17,10 @@ import java.time.format.DateTimeFormatter;
 @Service
 public class GcsArchiveXmlFile implements ArchiveXmlFile{
 
-    @Value("${flex.query.bucket.current}")
+    @Value("${flex.query.current}")
     private String flexXmlCurrentfile;
 
-    @Value("${flex.query.bucket.archive}")
+    @Value("${flex.query.archive}")
     private String flexXmlArchiveDestination;
 
     @Value("${flex.query.bucket}")
